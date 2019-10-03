@@ -1,0 +1,9 @@
+#!/bin/bash
+# testing shell script
+
+echo "this is amit kumar jain"
+
+NAME=AMIT
+
+echo @NAME
+

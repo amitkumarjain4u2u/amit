@@ -1,0 +1,276 @@
+    1  init 0
+    2  ls -l
+    3  tree 
+    4  ls -l
+    5  cat /etc/passwd
+    6  ls -l
+    7  clear
+    8  ls -l
+    9  init 0
+   10  init o
+   11  init 0
+   12  pwd
+   13  ls -ltr
+   14  mkdir amit
+   15  cd amit
+   16  dir
+   17  mkdir amit1 amit2
+   18  dir
+   19  ls -ltr
+   20  touch f1
+   21  ls -ltr
+   22  ls -ltr /
+   23  history
+   24  mkdir -vp os/{linux/{rhel6,rhel7,rhel8},windows/{win7,win8,win10}}
+   25  tree os
+   26  updatedb
+   27  mandb
+   28  yum repolist all
+   29  yum
+   30  yum update
+   31  yum install
+   32  yum install -v
+   33  cd..
+   34  cd ..
+   35  ls -l
+   36  subscription_manager_gui
+   37  subscription_manager_gui --register
+   38  sysnamectl
+   39  host
+   40  whoami
+   41  yum install
+   42  subscription-manager
+   43  subscription-manager subscribe
+   44  subscription-manager register
+   45  yum install
+   46  yum update
+   47  yum repolist all
+   48  subscription-manager register
+   49  cat /etc/redhat-release
+   50  subscription-manager register
+   51  updatedb
+   52  mandb
+   53  updatedb
+   54  mandb
+   55  update
+   56  subscription-manager register --username amitkumarjain4u2u --password Amit@9460781203
+   57  yum repolist all
+   58  subscription-manager role --set "Red Hat Enterprise Linux Server"
+   59  subscription-manager service-level="Standard"
+   60  subscription-manager usage --set="Development/Test"
+   61  subscription-manager service-level --set="Standard"
+   62  subscription-manager 
+   63  subscription-manager status
+   64  yum repolist all
+   65  yum update
+   66  yum repolist all
+   67  yum update
+   68  updatedb
+   69  mandb
+   70  yum install
+   71  yum install all
+   72  yum update
+   73  ls -ltr
+   74  cd amit/
+   75  dir
+   76  tree os
+   77  sudo apt-get install vim
+   78  yum install vim
+   79  yum install nano
+   80  yum install geany
+   81  Wget http://www.melvilletheatre.com/articles/el6/geany-1.27-1.el6.x86_64.rpm
+   82  wget http://www.melvilletheatre.com/articles/el6/geany-1.27-1.el6.x86_64.rpm
+   83  rpm -ivh geany-1.27-1.el6.x86_64.rpm
+   84  yum install geany
+   85  yum install emacs
+   86  wget https://download.sublimetext.com/sublime-text_build-3114_amd64.deb
+   87  dpkg -i sublime-text_build-3114_amd64.deb
+   88  yum install sublime
+   89  wget https://atom-installer.github.com/v1.7.3/atom.x86_64.rpm
+   90  yum install atom.x86_64.rpm
+   91  yum install gedit
+   92  ping google.com
+   93  tracert google.com
+   94  yum update
+   95  yum repolist all
+   96  yum installl notepad-plus-plus
+   97  yum install notepad-plus-plus
+   98  sudo snap install notepad-plus-plus
+   99  apt-get install notepad-plus-plus
+  100  yum install snapd
+  101  yum install wine-stable
+  102  yum install notepad-plus-plus
+  103  yum install notepadqq
+  104  yum install install notepadqq-gtk
+  105  yum install notepadqq-gtk
+  106  yum install snapd snapd-xdg-open
+  107  sudo snap install notepad-plus-plus
+  108  yum -v install notepad-plus-plus
+  109  yum install notepad-plus-plus
+  110  yum install google-chrome-stable_current_x86_64.rpm
+  111  cd..
+  112  cd ..
+  113  ls -ltr
+  114  cd downloada
+  115  ls -ltr
+  116  cd Downloads/
+  117  dir
+  118  yum install /Downloads/google-chrome-stable_current_x86_64.rpm
+  119  dnf install google-chrome-stable_current_x86_64.rpm
+  120  cd..
+  121  cd ..
+  122  ls -ltr
+  123  ls -ltr /
+  124  yum update
+  125  yum repolist all
+  126  yum update
+  127  updatedb
+  128  mandb
+  129  whatis yum
+  130  yum install eclipse
+  131  wget http://ftp.fau.de/eclipse/technology/epp/downloads/release/photon/R/eclipse-jee-photon-R-linux-gtk-x86_64.tar.gz
+  132  cd Downloads/
+  133  ls -ltr
+  134  rm -v google-chrome-stable_current_x86_64.rpm
+  135  ls -ltr
+  136  find eclipse
+  137  ls -ltr /
+  138  ls -ltrh /
+  139  updatedb
+  140  mandb
+  141  yum repolist all
+  142  yum update
+  143  yum resolvedep
+  144  dnf update
+  145  yum upgrade
+  146  yum groupupdate
+  147  clear
+  148  history
+  149  cd ..
+  150  ls -ltr 
+  151  rm -v eclipse-jee-photon-R-linux-gtk-x86_64.tar.gz
+  152  ls -ltr 
+  153  cd amit
+  154  ls -ltr
+  155  touch dir1/file{1..10}.mp3
+  156  touch amit1/file{1..10}.mp3
+  157  touch amit2/file{1..10}.mp4
+  158  ls -ltr amit1/
+  159  ls -ltr amit2/
+  160  cp amit2/* amit1 
+  161  ls -ltr amit2/
+  162  cp amit2/* amit1 
+  163  ls -ltr amit1/
+  164  subscription-manager reposlist all
+  165  ls -ltr
+  166  rm -v geany-1.27-1.el6.x86_64.rpm
+  167  rm -v atom.x86_64.rpm
+  168  ls -ltr
+  169  rm -v sublime-text_build-3114_amd64.deb
+  170  ls -lt
+  171  ls -ltr
+  172  tree amit1
+  173  tree amit
+  174  history
+  175  ifconfig
+  176  home
+  177  hostnamectl
+  178  hostnamectl status
+  179  cd ..
+  180  ls -ltrh /
+  181  useradd amit2
+  182  useradd amit3
+  183  cat /etc/passwd
+  184  useradd amit4
+  185  cat /etc/passwd
+  186  init 0
+  187  ls -ltrrr
+  188  ls -ltr
+  189  tput bold
+  190  ls -ltr
+  191  ls -ltrrr
+  192  history
+  193  init 0
+  194  yum update
+  195  yum upgrade
+  196  mandb
+  197  updatedb
+  198  ls -ltr
+  199  tree amit
+  200  yum update
+  201  yum upgrade
+  202  yum update
+  203  pinfo tree
+  204  clear
+  205  c
+  206  clear
+  207  yum install gedit
+  208  yum install notepad
+  209  yum install notepad++
+  210  yum install notepad-plus-plus
+  211  pwd
+  212  cat Desktop/amit
+  213  pwd
+  214  ls
+  215  ls -l
+  216  ls -ltr
+  217  ls -la
+  218  ls -a
+  219  pwd
+  220  cd Desktop
+  221  cd ..
+  222  mkdir amit
+  223  mkdir amitt
+  224  cd amitt
+  225  ls -ltr
+  226  touch file{1..10}/mp3
+  227  touch file{1..10}.mp3
+  228  touch file{1..10}.mp4
+  229  ls -ltr
+  230  mkdir ami1
+  231  mkdirami2
+  232  mkdir ami2
+  233  ls -ltr
+  234  rmdir ami1
+  235  rmdir ami2
+  236  ls -ltr
+  237  cp file1.mp3 file1.mp3mp4
+  238  ls -ltr
+  239  dir
+  240  cd ..
+  241  le -l
+  242  ls -l
+  243  cd amit
+  244  ls -l
+  245  cd Desktop
+  246  cd /Desktop
+  247  cd amitt
+  248  cd..
+  249  cd ..
+  250  ls -l
+  251  cd amitt
+  252  ls -ltr
+  253  touch amittext.txt
+  254  vi amittext.txt
+  255  pwd
+  256  ls -ltr
+  257  cd amitt
+  258  ls -ltr
+  259  grep amit amittext.txt
+  260  cp amittext.txt amittext1.txt
+  261  ls -ltr
+  262  diff amitext.txt amittext1.txt
+  263  diff amittext.txt amittext1.txt
+  264  passwd
+  265  ls -ltr
+  266  cat \etc\passwd
+  267  cat /etc/passwd
+  268  ls -ltr
+  269  NAME=AMIT
+  270  echo $NAME
+  271  ls > amit
+  272  ls -ltr
+  273  cat amit
+  274  clear
+  275  history
+  276  history > amitcmdhistory
